@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.7b4768e6.chunk.css",
-    "main.js": "/static/js/main.8caf5ed0.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.6282d6b2.js",
-    "static/js/2.236bd466.chunk.js": "/static/js/2.236bd466.chunk.js",
-    "static/js/3.508faeb9.chunk.js": "/static/js/3.508faeb9.chunk.js",
+    "main.css": "/static/css/main.ff9beec3.chunk.css",
+    "main.js": "/static/js/main.c198b49d.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.c5c0654d.js",
+    "static/js/2.b19e4d98.chunk.js": "/static/js/2.b19e4d98.chunk.js",
+    "static/js/3.3c72156f.chunk.js": "/static/js/3.3c72156f.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.236bd466.chunk.js.LICENSE.txt": "/static/js/2.236bd466.chunk.js.LICENSE.txt",
+    "static/js/2.b19e4d98.chunk.js.LICENSE.txt": "/static/js/2.b19e4d98.chunk.js.LICENSE.txt",
     "static/media/bearer.56672884.svg": "/static/media/bearer.56672884.svg",
-    "static/media/person.f487c13b.svg": "/static/media/person.f487c13b.svg",
-    "static/media/police.7ea03219.svg": "/static/media/police.7ea03219.svg"
+    "static/media/person.f487c13b.svg": "/static/media/person.f487c13b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6282d6b2.js",
-    "static/js/2.236bd466.chunk.js",
-    "static/css/main.7b4768e6.chunk.css",
-    "static/js/main.8caf5ed0.chunk.js"
+    "static/js/runtime-main.c5c0654d.js",
+    "static/js/2.b19e4d98.chunk.js",
+    "static/css/main.ff9beec3.chunk.css",
+    "static/js/main.c198b49d.chunk.js"
   ]
 }
